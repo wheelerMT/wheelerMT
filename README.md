@@ -23,6 +23,13 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 - 💬 Ask me about my research!
 - 📫 How to reach me: matthew.t.wheeler@uea.ac.uk.
 - 😄 Pronouns: he/him.
+- 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+
+```
+<!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
 
