@@ -19,11 +19,11 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 **Personal Stuff:**
 - 👨🏻‍💻 I’m currently working on <a href="https://github.com/wheelerMT/BECpp" target="_blank">BEC++</a>: a fast, adaptable Gross-Pitaevskii equation solver built using C++.
 - 🌱 I’m currently learning about the Kibble-Zurek mechanism.
-- 🤔 I’m looking for help with the intricacies of C++.
 - 💬 Ask me about my research!
 - 📫 How to reach me: matthew.t.wheeler@uea.ac.uk.
+- 🤔 I’m looking for help with the intricacies of C++.
 - 😄 Pronouns: he/him.
-- 
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
