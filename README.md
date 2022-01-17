@@ -27,7 +27,10 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     52 mins         ████████████░░░░░░░░░░░░░   48.32 % 
+C            35 mins         ████████▒░░░░░░░░░░░░░░░░   33.05 % 
+C++          12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+ObjectiveC   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
 <!--END_SECTION:waka-->
 
