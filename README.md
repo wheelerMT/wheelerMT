@@ -17,7 +17,7 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 ---
 
 **Personal Stuff:**
-- 👨🏻‍💻 I’m currently working on <a href="https://github.com/wheelerMT/BECpp" target="_blank">BEC++</a>: a fast, adaptable Gross-Pitaevskii equation solver built using C++.
+- 👨🏻‍💻 I’m currently working on <a href="https://github.com/wheelerMT/BECuda" target="_blank">BECuda</a>: a fast, adaptable Gross-Pitaevskii equation solver built using CUDA.
 - 🌱 I’m currently learning about the Kibble-Zurek mechanism.
 - 💬 Ask me about my research!
 - 📫 How to reach me: matthew.t.wheeler@uea.ac.uk.
