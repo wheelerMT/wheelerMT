@@ -8,7 +8,7 @@
 
 
 
-### Welcome to my GitHub! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=wheelerMT.wheelerMT)
+### Welcome to my GitHub!
 
 I am a PhD student at the University of East Anglia. I study the dynamics of quantum fluids, particularly in the context of spinor Bose-Einstein condensates.
 
