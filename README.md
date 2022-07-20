@@ -28,8 +28,8 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 42 mins   █████████████████████████   99.46 %
-TeX      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python   3 hrs 24 mins   █████████████████████████   99.41 %
+TeX      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
