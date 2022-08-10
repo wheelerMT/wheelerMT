@@ -24,7 +24,7 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 - 🤔 I’m looking for help with the intricacies of C++.
 - 😄 Pronouns: he/him.
 
-📊 **This Week I Spent My Time On:**
+📊 **My total coding times since Jan '22:**
 <!--START_SECTION:waka-->
 
 ```text
