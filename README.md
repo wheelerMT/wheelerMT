@@ -28,12 +28,14 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 <!--START_SECTION:waka-->
 
 ```text
-TeX              7 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   35.62 %
-C++              6 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.82 %
-Python           4 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
-ObjectiveC       1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Markdown         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-CMake            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Total Time: 179 hrs 8 mins
+
+Python           93 hrs 51 mins  >>>>>>>>>>>--------------   43.52 %
+TeX              69 hrs 44 mins  >>>>>>>>-----------------   32.34 %
+Markdown         13 hrs 42 mins  >>-----------------------   06.35 %
+C++              13 hrs 3 mins   >>-----------------------   06.05 %
+ObjectiveC       9 hrs 16 mins   >------------------------   04.30 %
+Cuda             7 hrs 7 mins    >------------------------   03.31 %
 ```
 
 <!--END_SECTION:waka-->
