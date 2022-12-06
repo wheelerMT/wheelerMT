@@ -18,10 +18,11 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 
 **Personal Stuff:**
 - 👨🏻‍💻 I’m currently working on <a href="https://github.com/wheelerMT/pygpe" target="_blank">PyGPE</a>: a fast, adaptable Gross-Pitaevskii equation solver built using Python & CUDA.
+- :wind_chime: I am also working on a [quantum vortex tracker](https://github.com/wheelerMT/quantumVortexTracker) built using deep learning!
 - 🌱 I’m currently learning about the Kibble-Zurek mechanism.
 - 💬 Ask me about my research!
 - 📫 How to reach me: matthew.t.wheeler@uea.ac.uk.
-- 🤔 I’m looking for help with the intricacies of C++.
+- 🤔 I’m looking for help with the intricacies of deep neural nets.
 - 😄 Pronouns: he/him.
 
 📊 **My total coding times since Jan '22:**
