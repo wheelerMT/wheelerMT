@@ -25,7 +25,7 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 - 🤔 I’m looking for help with the intricacies of deep neural nets.
 - 😄 Pronouns: he/him.
 
-📊 **My total coding times since Jan '22:**
+📊 **What languages I've been using the past 7 days:**
 <!--START_SECTION:waka-->
 
 ```text
