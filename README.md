@@ -17,12 +17,11 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 ---
 
 **Personal Stuff:**
-- 👨🏻‍💻 I’m currently working on <a href="https://github.com/wheelerMT/pygpe" target="_blank">PyGPE</a>: a fast, adaptable Gross-Pitaevskii equation solver built using Python & CUDA.
+- 👨🏻‍💻 I’m currently working on [BEC++](https://github.com/wheelerMT/BECpp) and [PyGPE](https://github.com/wheelerMT/pygpe): fast, adaptable Gross-Pitaevskii equation solvers built using C++, Python & CUDA.
 - :wind_chime: I am also working on a [quantum vortex tracker](https://github.com/wheelerMT/quantumVortexTracker) built using deep learning!
 - 🌱 I’m currently learning about the Kibble-Zurek mechanism.
 - 💬 Ask me about my research!
-- 📫 How to reach me: matthew.t.wheeler@uea.ac.uk.
-- 🤔 I’m looking for help with the intricacies of deep neural nets.
+- 📫 How to reach me: wheelerMT@pm.me.
 - 😄 Pronouns: he/him.
 
 📊 **What languages I've been using the past 7 days:**
@@ -45,5 +44,5 @@ CMakeLists.txt   6 mins          -------------------------   00.67 %
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wheelerMT&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheelerMT&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheelerMT&exclude_repo=pygpe-docs&hide_progress=true&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
