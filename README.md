@@ -28,14 +28,14 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 17 hrs 30 mins
+Total Time: 16 hrs 10 mins
 
-Python           9 hrs 19 mins   >>>>>>>>>>>>>------------   53.31 %
-C++              6 hrs 49 mins   >>>>>>>>>>---------------   38.95 %
-CMake            43 mins         >------------------------   04.10 %
-ObjectiveC       25 mins         >------------------------   02.46 %
-CMakeLists.txt   4 mins          -------------------------   00.46 %
-GitIgnore file   4 mins          -------------------------   00.43 %
+Python           8 hrs           >>>>>>>>>>>>-------------   49.46 %
+C++              6 hrs 49 mins   >>>>>>>>>>>--------------   42.16 %
+CMake            43 mins         >------------------------   04.44 %
+ObjectiveC       25 mins         >------------------------   02.66 %
+CMakeLists.txt   4 mins          -------------------------   00.50 %
+GitIgnore file   4 mins          -------------------------   00.46 %
 ```
 
 <!--END_SECTION:waka-->
