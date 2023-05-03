@@ -28,14 +28,14 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 23 mins
+Total Time: 6 hrs 47 mins
 
-TeX      3 hrs 15 mins   >>>>>>>>>>>>>------------   51.06 %
-Rust     1 hr 4 mins     >>>>---------------------   16.80 %
-C++      1 hr 2 mins     >>>>---------------------   16.36 %
-Lua      42 mins         >>>----------------------   11.04 %
-lir      9 mins          >------------------------   02.53 %
-YAML     6 mins          -------------------------   01.57 %
+TeX      3 hrs 15 mins   >>>>>>>>>>>>-------------   47.99 %
+Rust     1 hr 28 mins    >>>>>--------------------   21.80 %
+C++      1 hr 2 mins     >>>>---------------------   15.38 %
+Lua      42 mins         >>>----------------------   10.38 %
+lir      9 mins          >------------------------   02.38 %
+YAML     6 mins          -------------------------   01.47 %
 ```
 
 <!--END_SECTION:waka-->
