@@ -19,9 +19,9 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 **Personal Stuff:**
 - 👨🏻‍💻 I’m currently working on [BEC++](https://github.com/wheelerMT/BECpp) and [PyGPE](https://github.com/wheelerMT/pygpe): fast, adaptable Gross-Pitaevskii equation solvers built using C++, Python & CUDA.
 - :wind_chime: I am also working on a [quantum vortex tracker](https://github.com/wheelerMT/quantumVortexTracker) built using deep learning!
-- 🌱 I’m currently learning about the Kibble-Zurek mechanism.
+- 🌱 I’m currently learning about [the Rust programming language](https://rust-lang.org).
 - 💬 Ask me about my research!
-- 📫 How to reach me: wheelerMT@pm.me.
+- 📫 How to reach me: wheelerMT@proton.me.
 - 😄 Pronouns: he/him.
 
 📊 **What languages I've been using the past 7 days:**
