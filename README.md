@@ -28,13 +28,13 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 7 hrs 53 mins
+Total Time: 6 hrs 37 mins
 
-Rust             4 hrs 6 mins    >>>>>>>>>>>>>------------   52.12 %
-Python           3 hrs 29 mins   >>>>>>>>>>>--------------   44.31 %
-Lua              10 mins         >------------------------   02.23 %
-TOML             3 mins          -------------------------   00.68 %
-GitIgnore file   1 min           -------------------------   00.29 %
+Python           3 hrs 29 mins   >>>>>>>>>>>>>------------   52.78 %
+Rust             3 hrs 2 mins    >>>>>>>>>>>--------------   45.88 %
+TOML             2 mins          -------------------------   00.55 %
+GitIgnore file   1 min           -------------------------   00.34 %
+Markdown         1 min           -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
