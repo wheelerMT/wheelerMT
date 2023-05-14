@@ -31,7 +31,7 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 Total Time: 1 hr 12 mins
 
 TeX              30 mins         >>>>>>>>>>>--------------   42.26 %
-Python           18 mins         >>>>>>>------------------   26.01 %
+Python           18 mins         >>>>>>>------------------   26.00 %
 TOML             12 mins         >>>>---------------------   17.46 %
 Markdown         8 mins          >>>----------------------   11.11 %
 GitIgnore file   1 min           -------------------------   01.98 %
