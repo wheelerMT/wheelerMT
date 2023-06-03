@@ -27,14 +27,10 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 📊 **What languages I've been using the past 7 days:**
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 1 hr 27 mins
+```txt
+Total Time: 1 hr 7 mins
 
-TeX          1 hr 22 mins    >>>>>>>>>>>>>>>>>>>>>>>--   93.81 %
-Python       2 mins          >------------------------   02.43 %
-Git Config   1 min           -------------------------   01.89 %
-Other        0 secs          -------------------------   00.96 %
-MATLAB       0 secs          -------------------------   00.87 %
+TeX   1 hr 7 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
