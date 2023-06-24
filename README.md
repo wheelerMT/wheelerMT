@@ -28,13 +28,13 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 20 mins
+Total Time: 18 hrs 15 mins
 
-CSS              4 hrs 59 mins   >>>>>--------------------   21.36 %
-HTML             4 hrs 4 mins    >>>>---------------------   17.47 %
-JavaScript       3 hrs 55 mins   >>>>---------------------   16.85 %
-SCSS             2 hrs 35 mins   >>>----------------------   11.14 %
-TypeScript       2 hrs 9 mins    >>-----------------------   09.28 %
+HTML             3 hrs 18 mins   >>>>>--------------------   18.08 %
+SCSS             2 hrs 35 mins   >>>>---------------------   14.24 %
+CSS              2 hrs 25 mins   >>>----------------------   13.24 %
+TypeScript       2 hrs 9 mins    >>>----------------------   11.86 %
+JavaScript       2 hrs 1 min     >>>----------------------   11.13 %
 ```
 
 <!--END_SECTION:waka-->
