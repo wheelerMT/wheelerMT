@@ -30,7 +30,7 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 ```txt
 Total Time: 5 hrs 46 mins
 
-TeX          5 hrs 33 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.44 %
+TeX          5 hrs 33 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.43 %
 JavaScript   5 mins          -------------------------   01.63 %
 HTML         2 mins          -------------------------   00.81 %
 Python       2 mins          -------------------------   00.81 %
