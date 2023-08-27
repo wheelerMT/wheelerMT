@@ -28,9 +28,9 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 47 mins
+Total Time: 8 hrs 32 mins
 
-TeX     9 hrs 47 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.99 %
+TeX     8 hrs 32 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.99 %
 Ezhil   0 secs          -------------------------   00.01 %
 ```
 
