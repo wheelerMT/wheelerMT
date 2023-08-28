@@ -28,7 +28,7 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 📈 **My GitHub contributions for the past year:**
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-📊 **How I've been spending my last 7 days:**
+📊 **How I've been spending my last 30 days:**
 <!--START_SECTION:waka-->
 
 ```txt
