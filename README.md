@@ -32,7 +32,7 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2023 - To: 01 October 2023
+From: 02 September 2023 - To: 02 October 2023
 
 Total Time: 65 hrs 29 mins
 
