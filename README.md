@@ -32,15 +32,15 @@ I am mainly focussed on the study of quantum vortices within these fluids, such 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2023 - To: 08 October 2023
+From: 09 September 2023 - To: 09 October 2023
 
-Total Time: 56 hrs 58 mins
+Total Time: 55 hrs 13 mins
 
-TeX         52 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.88 %
-Rust        3 hrs 45 mins   >>-----------------------   06.60 %
-Python      45 mins         -------------------------   01.32 %
-BibTeX      5 mins          -------------------------   00.15 %
-TOML        0 secs          -------------------------   00.03 %
+TeX         52 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.78 %
+Rust        2 hrs 1 min     >------------------------   03.67 %
+Python      45 mins         -------------------------   01.37 %
+BibTeX      5 mins          -------------------------   00.16 %
+Text        0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
