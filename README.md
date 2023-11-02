@@ -10,7 +10,7 @@
 
 ### Welcome to my GitHub!
 
-I am a Senior Modelling & Simulation engineer, working mainly with Fortran, C, and Matlab. In my spare time I love all-things systems, where I devote a lot of my time to learning and using Rust.
+I am a Senior Modelling & Simulation Engineer, working mainly with Fortran, C, and Matlab. In my spare time I love all-things systems programming, where I devote a lot of my time to learning and using Rust.
 
 ---
 
