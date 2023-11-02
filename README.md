@@ -10,9 +10,7 @@
 
 ### Welcome to my GitHub!
 
-I am a PhD student at the University of East Anglia. I study the dynamics of quantum fluids, particularly in the context of spinor Bose-Einstein condensates.
-
-I am mainly focussed on the study of quantum vortices within these fluids, such as vortex structure and relaxation dynamics. <a href="https://iopscience.iop.org/article/10.1209/0295-5075/ac2c53" target="_blank">Here</a> is a paper I wrote on the latter subject!
+I am a Senior Modelling & Simulation engineer, working mainly with Fortran, C, and Matlab. In my spare time I love all-things systems, where I devote a lot of my time to learning and using Rust.
 
 ---
 
