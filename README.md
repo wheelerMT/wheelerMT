@@ -30,15 +30,12 @@ I am a Senior Modelling & Simulation Engineer, working mainly with Fortran, C, a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2023 - To: 17 December 2023
+From: 19 November 2023 - To: 18 December 2023
 
-Total Time: 1 hr 27 mins
+Total Time: 20 mins
 
-Rust             1 hr 5 mins     >>>>>>>>>>>>>>>>>>>------   74.50 %
-TeX              19 mins         >>>>>--------------------   21.88 %
-GitIgnore file   1 min           -------------------------   01.54 %
-Fortran          1 min           -------------------------   01.29 %
-TOML             0 secs          -------------------------   00.78 %
+TeX       19 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   94.42 %
+Fortran   1 min           >------------------------   05.58 %
 ```
 
 <!--END_SECTION:waka-->
