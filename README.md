@@ -30,7 +30,7 @@ I am a Senior Modelling & Simulation Engineer, working mainly with Fortran, C, a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2024 - To: 16 February 2024
+From: 19 January 2024 - To: 17 February 2024
 
 Total Time: 4 hrs 18 mins
 
