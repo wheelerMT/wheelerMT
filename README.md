@@ -30,15 +30,15 @@ I am a Senior Modelling & Simulation Engineer, working mainly with Fortran, C, a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2024 - To: 05 March 2024
+From: 06 February 2024 - To: 06 March 2024
 
-Total Time: 10 hrs 24 mins
+Total Time: 10 hrs 45 mins
 
-Python       4 hrs 37 mins   >>>>>>>>>>>--------------   44.38 %
-Markdown     4 hrs 25 mins   >>>>>>>>>>>--------------   42.44 %
-HTML         27 mins         >------------------------   04.44 %
-CSS          25 mins         >------------------------   04.14 %
-JavaScript   16 mins         >------------------------   02.61 %
+Python       4 hrs 58 mins   >>>>>>>>>>>>-------------   46.19 %
+Markdown     4 hrs 25 mins   >>>>>>>>>>---------------   41.06 %
+HTML         27 mins         >------------------------   04.30 %
+CSS          25 mins         >------------------------   04.01 %
+JavaScript   16 mins         >------------------------   02.52 %
 ```
 
 <!--END_SECTION:waka-->
