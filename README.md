@@ -10,14 +10,13 @@
 
 ### Welcome to my GitHub!
 
-I am a Senior Modelling & Simulation Engineer, working mainly with Fortran, C, and Matlab. In my spare time I love all-things systems programming, where I devote a lot of my time to learning and using Rust.
+I am a Senior Modelling & Simulation Engineer, working mainly with Fortran and C++. In my spare time I love all-things programming, where I devote a lot of my time to learning and using new tools.
 
 ---
 
 **Personal Stuff:**
-- 👨🏻‍💻 I’ve created [BEC++](https://github.com/wheelerMT/BECpp) and [PyGPE](https://github.com/wheelerMT/pygpe): fast, adaptable Gross-Pitaevskii equation solvers built using C++, Python & CUDA.
-- :wind_chime: I am also working on a [quantum vortex tracker](https://github.com/wheelerMT/quantumVortexTracker) built using deep learning!
-- 🌱 I’m currently learning about [the Rust programming language](https://rust-lang.org).
+- 👨🏻‍💻 I am the creator of [PyGPE](https://github.com/wheelerMT/pygpe): a fast, adaptable Gross-Pitaevskii equation solver built using Python & CUDA.
+- :wind_chime: I am also working on a [generic simulation & modelling platform](https://github.com/wheelerMT/GSMP) built using C++!
 - 💬 Ask me about my research!
 - 📫 How to reach me: wheelerMT@proton.me.
 - 😄 Pronouns: he/him.
