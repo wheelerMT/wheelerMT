@@ -26,7 +26,7 @@ I am a Senior Modelling & Simulation Engineer, working mainly with Fortran and C
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2022 - To: 04 February 2025
+From: 15 January 2022 - To: 05 February 2025
 
 Total Time: 927 hrs 43 mins
 
