@@ -22,7 +22,7 @@ I am a Senior Modelling & Simulation Engineer, working mainly with Fortran and C
 📈 **My GitHub contributions for the past year:**
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-📊 **My most used languages outside of work:**
+📊 **Recent activity:**
 <!--START_SECTION:waka-->
 
 ```txt
