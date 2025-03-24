@@ -18,6 +18,9 @@ I am a Senior Modelling & Simulation Engineer, working mainly with Fortran and C
 - 📫 How to reach me: wheelerMT@proton.me.
 - 😄 Pronouns: he/him.
 
+👨🏻‍💻 **Top languages:**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheelerMT&exclude_repo=pygpe-docs&hide=tex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 📈 **My GitHub contributions for the past year:**
 ![](./profile-3d-contrib/profile-green-animate.svg)
