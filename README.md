@@ -29,11 +29,11 @@ I am a Senior Modelling & Simulation Engineer, working mainly with Fortran and C
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 18 January 2026
+From: 13 January 2026 - To: 19 January 2026
 
-Total Time: 32 mins
+Total Time: 40 mins
 
-C++   32 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C++   40 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
