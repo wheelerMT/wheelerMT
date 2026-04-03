@@ -29,15 +29,14 @@ I am a Senior Modelling & Simulation Engineer, working mainly with Fortran and C
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 31 March 2026
+From: 26 March 2026 - To: 01 April 2026
 
-Total Time: 11 hrs 1 min
+Total Time: 9 hrs 51 mins
 
-C++              7 hrs 16 mins         >>>>>>>>>>>>>>>>---------   65.98 %
-YAML             1 hr                  >>-----------------------   09.22 %
-CMake            55 mins               >>-----------------------   08.33 %
-C/C              38 mins               >------------------------   05.84 %
-Other            32 mins               >------------------------   04.98 %
+C++              7 hrs 19 mins         >>>>>>>>>>>>>>>>>>>------   74.22 %
+C/C              38 mins               >>-----------------------   06.53 %
+YAML             37 mins               >>-----------------------   06.30 %
+Other            32 mins               >------------------------   05.57 %
 ```
 
 <!--END_SECTION:waka-->
