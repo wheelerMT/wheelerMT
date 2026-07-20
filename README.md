@@ -29,14 +29,15 @@ I am a Senior Modelling & Simulation Engineer, working mainly with Fortran and C
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2026 - To: 17 July 2026
+From: 11 July 2026 - To: 18 July 2026
 
-Total Time: 55 mins
+Total Time: 1 hr 56 mins
 
-C++          51 mins               >>>>>>>>>>>>>>>>>>>>>>>--   92.72 %
-Swift        3 mins                >------------------------   05.65 %
-Git Config   0 secs                -------------------------   01.17 %
-JSON         0 secs                -------------------------   00.46 %
+C++          51 mins               >>>>>>>>>>>--------------   43.88 %
+Go           32 mins               >>>>>>>------------------   27.79 %
+Swift        31 mins               >>>>>>>------------------   27.04 %
+Git Config   1 min                 -------------------------   01.07 %
+JSON         0 secs                -------------------------   00.22 %
 ```
 
 <!--END_SECTION:waka-->
