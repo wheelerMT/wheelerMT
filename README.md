@@ -25,15 +25,15 @@ I am a Principal Software Engineer, working mainly with real-time, distributed C
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2026 - To: 20 September 2026
+From: 14 September 2026 - To: 21 September 2026
 
-Total Time: 59 mins
+Total Time: 21 mins
 
-C++          15 mins               >>>>>>-------------------   25.86 %
-Swift        13 mins               >>>>>>-------------------   22.97 %
-Go           12 mins               >>>>>--------------------   21.90 %
-JSON         11 mins               >>>>>--------------------   20.25 %
-CMake        3 mins                >------------------------   05.21 %
+Swift        13 mins               >>>>>>>>>>>>>>>>---------   62.25 %
+C++          5 mins                >>>>>>-------------------   23.57 %
+Markdown     2 mins                >>>----------------------   10.04 %
+CMake        0 secs                >------------------------   03.83 %
+JSON         0 secs                -------------------------   00.29 %
 ```
 
 <!--END_SECTION:waka-->
